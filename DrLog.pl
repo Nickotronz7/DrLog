@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 articulo([el]).
 nombre([gato]).
 nombre([perro]).
@@ -31,3 +32,9 @@ sintagma_verbal(SV):- verbo(V),
 ask:-
   split_string("¿El gato come pescado?", "", "¿", L),
   write(L).
+=======
+Gay(Nicko, le gustan de 20 cm).
+sdasdas
+dadas
+asda
+>>>>>>> c41ccff9ed9c3474afe15fab5b854ad8dcd943d8
